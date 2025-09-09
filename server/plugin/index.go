@@ -8,7 +8,6 @@ import (
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_authenticate_openid"
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_authenticate_passthrough"
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_authenticate_saml"
-	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_application_autodesk"
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_backend_artifactory"
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_backend_backblaze"
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_backend_dav"
