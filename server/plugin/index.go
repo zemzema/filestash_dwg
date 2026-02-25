@@ -25,6 +25,7 @@ import (
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_security_svg"
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_starter_http"
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_video_transcoder"
+	- "github.com/zemzema/filestash_dwg/tree/master/server/plugin/plg_viewer_dwg"
 )
 
 func init() {
